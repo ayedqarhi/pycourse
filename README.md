@@ -23,3 +23,5 @@ _Hello World_
 | 1 | Ali | 22.4 |
 | 2 | Sami | 15.5 |
 | 3 | Waleed | 40.5 |
+
+`Example`
