@@ -33,5 +33,7 @@ _Hello World_
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ```Python
-print('Hello world!')
+# Just Example
+fd = 'Hi, my name is Ali'
+print('Hello world!' + fd)
 ```
