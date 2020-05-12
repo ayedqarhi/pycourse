@@ -25,3 +25,5 @@ _Hello World_
 | 3 | Waleed | 40.5 |
 
 `Example`
+
+[I'm an inline-style link](https://www.google.com)
