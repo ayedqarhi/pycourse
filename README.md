@@ -19,6 +19,7 @@ _Hello World_
 > Text Goes Here
 
 | Id | Name | Mark |
+|---|---|---|
 | 1 | Ali | 22.4 |
 | 2 | Sami | 15.5 |
 | 3 | Waleed | 40.5 |
